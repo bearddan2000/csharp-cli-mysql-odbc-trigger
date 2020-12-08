@@ -1,0 +1,40 @@
+[2020-12-06 20:47:47 INFO]: install::setup-logging ended
+================
+[2020-12-06 20:47:47 INFO]: install::start-up started
+[2020-12-06 20:47:47 INFO]: install::start-up run as commandline
+[2020-12-06 20:47:47 INFO]: install::start-up ended
+================
+[2020-12-06 20:49:16 INFO]: install::root-check started
+[2020-12-06 20:49:16 INFO]: install::root-check ended
+================
+[2020-12-06 20:49:16 INFO]: install::docker-check started
+[2020-12-06 20:49:16 INFO]: install::docker-check ended
+================
+[2020-12-06 20:49:16 INFO]: install::docker-compose-check started
+[2020-12-06 20:49:16 INFO]: install::docker-compose-check ended
+================
+[2020-12-06 20:49:16 INFO]: install::tear-down started
+[2020-12-06 20:49:16 INFO]: install::tear-down services removed
+[2020-12-06 20:49:16 INFO]: install::tear-down ended
+================
+[2020-12-08 10:38:56 INFO]: install::root-check started
+[2020-12-08 10:38:56 INFO]: install::root-check ended
+================
+[2020-12-08 10:38:56 INFO]: install::docker-check started
+[2020-12-08 10:38:56 INFO]: install::docker-check ended
+================
+[2020-12-08 10:38:56 INFO]: install::docker-compose-check started
+[2020-12-08 10:38:56 INFO]: install::docker-compose-check ended
+================
+[2020-12-08 10:38:56 INFO]: install::tear-down started
+[2020-12-08 10:38:56 INFO]: install::compress started
+[2020-12-08 10:38:56 INFO]: install::compress changing directory to maria
+[2020-12-08 10:38:56 INFO]: install::compress ended
+================
+[2020-12-08 10:38:56 INFO]: install::compress started
+[2020-12-08 10:38:56 INFO]: install::compress changing directory to mono
+[2020-12-08 10:38:56 INFO]: install::compress ended
+================
+[2020-12-08 10:38:56 INFO]: install::compress services removed
+[2020-12-08 10:38:56 INFO]: install::compress ended
+================

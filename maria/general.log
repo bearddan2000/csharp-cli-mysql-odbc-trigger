@@ -1,0 +1,3 @@
+[2020-12-08 10:38:56 INFO]: install::compress compressing maria/data_dump 
+[2020-12-08 10:38:56 INFO]: install::compress removing data_dump 
+[2020-12-08 10:38:56 INFO]: install::compress changing directory back
